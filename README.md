@@ -7,7 +7,7 @@ How to Run in Google Colab:
 1. Clone this repository or upload the files to your Google Drive.
 
 
-2. Open the Colab notebook (chatbot_colab.ipynb or equivalent) in Google Colab.
+2. Open the Colab notebook (Bitext Gen AI_Customer_Support_Chatbot.ipynb) in Google Colab.
 
 
 3. Run the cells in sequence to start interacting with the chatbot.
